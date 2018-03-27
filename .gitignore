@@ -2,6 +2,8 @@
 .classpath
 .project
 .settings
+gradlew.bat
+*.code-workspace
 bin/
 build/
 gradlew
